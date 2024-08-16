@@ -1,4 +1,4 @@
-transformers~=4.35.2
+transformers~=4.38.0
 datasets~=2.18.0
 notebook
 torch~=2.1.0
